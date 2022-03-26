@@ -15,8 +15,20 @@ No Responsive Desgin
 
 ---
 
-# Framework
+# Framework & Language
 
 The Below Table Framework is used in this Project. To run this Project. This framework has been installed in system with same Version or Latest Version.
 
+| Framework&Language  | Version |
+| ------------- | ------------- |
+| Python |  3.10.4  |
+| Django  | 4.0.3  |
+| TailWindCss  | 3.0.23  |
 
+---
+
+# Command for Execute Project
+
+```bash
+python manage.py runserver
+```
