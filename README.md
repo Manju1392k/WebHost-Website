@@ -32,4 +32,3 @@ The Below Table Framework is used in this Project. To run this Project. This fra
 python manage.py runserver
 ```
 
-
